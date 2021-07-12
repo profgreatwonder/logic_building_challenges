@@ -1,0 +1,12 @@
+Task 1
+Take two numbers as an input and print the addition of those two numbers.
+
+Variables:
+We receive the first input from the user and assign it to a variable, firstNum
+We receive the second input from the user and assign it to a variable, secondNum
+We then add both variables together and assign it to another variable, addNum
+Finally, we print this variable addNum
+
+
+Function:
+We go on to wrap what we have
