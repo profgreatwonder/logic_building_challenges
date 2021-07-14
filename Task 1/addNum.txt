@@ -2,10 +2,14 @@ Task 1
 Take two numbers as an input and print the addition of those two numbers.
 
 Variables:
-We receive the first input from the user and assign it to a variable, firstNum
-We receive the second input from the user and assign it to a variable, secondNum
-We then add both variables together and assign it to another variable, addNum
-Finally, we print this variable addNum
+1. We receive the first input from the user and assign it to a variable, firstNum
+2. We receive the second input from the user and assign it to a variable, secondNum
+3. We then add both variables together and assign it to another variable, addNum
+4. Finally, we print this variable addNum
 
 
 Function:
+1. define a Function, plusNum()
+2. In the function block, we repeat the steps 1 and 2
+3. step 3 is returned rather than assigning the addition to a variable then alerting(JS) or printing(Python). We could also assign to a variable before returning
+4. Finally, we alert or print the function plusNum()
