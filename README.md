@@ -7,3 +7,5 @@ Then I will proceed to write the code for the challenge (mostly variables and fu
 
 ### Tasks ###
 Task One: Take two numbers as an input and print the addition of those two numbers. More details about the steps can be found in addNum.txt
+
+Task One: Take two numbers as an input and print the addition of those two numbers. More details about the steps can be found in addNum.txt
