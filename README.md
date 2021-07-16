@@ -8,4 +8,4 @@ over the next few months, I will be walking through a series of code problems to
 ### Tasks ###
 Task One: Take two numbers as an input and print the addition of those two numbers. More details about the steps can be found in addNum.txt
 
-Task One: Take three numbers as an input and print the average of those three numbers. More details about the steps can be found in avNum.txt
+Task Two: Take three numbers as an input and print the average of those three numbers. More details about the steps can be found in avNum.txt
