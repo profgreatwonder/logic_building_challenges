@@ -10,6 +10,6 @@ Variables:
 
 Function:
 1. define a Function, plusNum()
-2. In the function block, we repeat the steps 1 and 2
+2. In the function block, we repeat the steps 1 and 2 from the variables section
 3. step 3 is returned rather than assigning the addition to a variable then alerting(JS) or printing(Python). We could also assign to a variable before returning
 4. Finally, we alert or print the function plusNum()

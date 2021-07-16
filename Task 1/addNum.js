@@ -1,7 +1,15 @@
-    let firstNum = prompt("please select a number:");
-    let secondNum = prompt("please select another number");
-    let addNum = Number(firstNum) + Number(secondNum)
+    let firstNum = prompt("please select a number: ");
+    let secondNum = prompt("please select another number: ");
+    let addNum = Number(firstNum) + Number(secondNum);
+    let addNum = firstNum + secondNum;
     alert(addNum);
+
+    // or
+
+    // let firstNum = Number(prompt("please select a number: "));
+    // let secondNum = Number(prompt("please select another number: "));
+    // let addNum = firstNum + secondNum;
+    // alert(addNum);
 
 
 // function 
@@ -12,4 +20,12 @@ function plusNum() {
     
 }
 
-alert(plusNum());
+// alert(plusNum());
+
+// or (without input from the user)
+
+function sumNum(fN, sN) {
+    return fN + sN;
+}
+
+console.log(sumNum(12, 3));

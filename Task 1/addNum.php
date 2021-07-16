@@ -13,5 +13,14 @@
     </form>
     <?php echo $_GET[intval("firstNum")] + $_GET[intval("secondNum")]?> 
     <!-- this has not been solved. I am trying to use HTML to collect the data and calculating the input using PHP -->
+
+
+    <!-- we can make do with the below -->
+    <?php
+    $fn = 3;
+    $sn = 3;
+    $totn = $fn + $sn;
+    echo $totn;
+    ?>
 </body>
 </html>

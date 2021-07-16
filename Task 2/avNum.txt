@@ -1,0 +1,16 @@
+Task 2
+Take three numbers as an input and print the average of those two numbers.
+
+Variables:
+1. We receive the first input from the user and assign it to a variable, num_1
+2. We receive the second input from the user and assign it to a variable, num_2
+2. We receive the third input from the user and assign it to a variable, num_3
+3. We then add the the three variables together, divide them by 3 and assign it to another variable, avNum
+4. Finally, we print this variable avNum
+
+
+Function:
+1. define a Function, num_av()
+2. In the function block, we repeat the steps 1 and 2 from variables section
+3. step 3 is returned rather than assigning the the average number to a variable then alerting(JS) or printing(Python). We could also assign to a variable before returning
+4. Finally, we alert or print the function num_av()
