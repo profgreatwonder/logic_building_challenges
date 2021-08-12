@@ -1,8 +1,7 @@
     let firstNum = prompt("please select a number: ");
     let secondNum = prompt("please select another number: ");
     let addNum = Number(firstNum) + Number(secondNum);
-    let addNum = firstNum + secondNum;
-    alert(addNum);
+    alert(`The addition of your choice numbers is ${addNum}`);
 
     // or
 

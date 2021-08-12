@@ -3,9 +3,9 @@ Take two numbers as an input and print the addition of those two numbers.
 
 Variables:
 1. We receive the first input from the user and assign it to a variable, firstNum
-2. We receive the second input from the user and assign it to a variable, secondNum
+2. We receive the second input from the user and assign it to another variable, secondNum
 3. We then add both variables together and assign it to another variable, addNum
-4. Finally, we print this variable addNum
+4. Finally, we alert or print this variable addNum
 
 
 Function:

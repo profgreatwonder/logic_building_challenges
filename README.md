@@ -1,7 +1,7 @@
 # Logic Building Challenges #
-over the next few months, I will be walking through a series of code problems to build my logic in programming. Everyday, I will:
-1. Take a challenge
-2. Understand it
+over the next few months, I will be walking through a series of code problems to help new developers build their logic in programming. Everyday, I will:
+1. Present a challenge
+2. Help them Understand it
 3. Write the algorithm for the challenge 
 4. Then I will proceed to write the code for the challenge (mostly variables and functions) in 3 programming languages, JavaScript, Python, and PHP.
 
